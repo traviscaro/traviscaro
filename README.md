@@ -9,6 +9,5 @@ A little about me:
 - 📫 How to reach me: [travisbcaro@gmail.com](mailto:travisbcaro@gmail.com)
 - ⚡ Fun fact: I am an A Class Driver on [iRacing](https://iracing.com) 🏎.
 
-Follow me on Twitter: [@travisbcaro](https://twitter.com/travisbcaro) 
-
-Connect with me on LinkedIn: [travisbcaro](https://www.linkedin.com/in/travisbcaro/)
+Follow me on Twitter: [@travisbcaro](https://twitter.com/travisbcaro)  
+Connect with me on LinkedIn: [travisbcaro](https://www.linkedin.com/in/travisbcaro/) 
