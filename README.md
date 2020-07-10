@@ -10,3 +10,4 @@ A little about me:
 - ⚡ Fun fact: I am an A Class Driver on [iRacing](https://iracing.com) 🏎.
 
 Follow me on Twitter: [@travisbcaro](https://twitter.com/travisbcaro)
+Connect with me on LinkedIn: [travisbcaro](https://www.linkedin.com/in/travisbcaro/)
