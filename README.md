@@ -1,8 +1,8 @@
 # Hi 👋 My name is Travis Caro
 
-I started coding in 2013 and developing professionally in 2015 (time flies when you're having fun!).
+I started coding in 2013 and developing professionally in 2015. Time flies when you're having fun!
 
-In 2022 I took the leap to commit full-time to developing software for clients with my dev agency, Carbon Creek.
+In 2022 I took the leap to commit full-time to developing software for clients with my dev agency, [Carbon Creek](https://carboncreek.agency).
 
 I'm an aspiring SaaS founder and have been spending my time refining my business and my process while learning new skills to build and launch my first product! 🚀
 
