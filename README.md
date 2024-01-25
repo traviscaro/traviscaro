@@ -1,16 +1,13 @@
-# Hi 👋 My name is Travis Caro
+# Hey there friend, I'm Travis! 👋 
 
-I started coding in 2013 and developing professionally in 2015. Time flies when you're having fun!
+## A little about me
+- I started coding in 2013 and getting paid for it in 2015. It's hard to believe how long it's been already. Time flies when you're having fun!
+- I am a technical generalist. I always have been and I lean into it. I have experience building web applications and APIs with several different frontend frameworks, languages, and frameworks for the API, and various flavors of databases.
+- I am a constant work-in-progress. I aim to always be learning. I hold my opinions loosely and I'm open to changing my mind as I acquire new information.
 
-In 2022 I took the leap to commit full-time to developing software for clients with my dev agency, [Carbon Creek](https://carboncreek.agency).
+Have a question, an interesting thought, or maybe just a shareworthy meme? 
 
-I'm an aspiring SaaS founder and have been spending my time refining my business and my process while learning new skills to build and launch my first product! 🚀
-
-- 🌍  I'm based in York, PA
-- ✉️  You can contact me at [hello@traviscaro.dev](mailto:hello@traviscaro.dev)
-- 🧠  I'm learning Supabase
-- 🤝  I'm open to collaborating on interesting projects
-- ⚡  I'm secretly Spiderman... but don't tell anyone
+Drop me a line at [hello@traviscaro.dev](mailto:hello@traviscaro.dev).
 
 <a href="https://www.github.com/traviscaro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/traviscaro?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
