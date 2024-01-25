@@ -1,16 +1,17 @@
 # Hey there friend, I'm Travis! 👋 
 
-## A little about me
-- I started coding in 2013 and getting paid for it in 2015. It's hard to believe how long it's been already. Time flies when you're having fun!
-- I am a technical generalist. I always have been and I lean into it. I have experience building web applications and APIs with several different frontend frameworks, languages, and frameworks for the API, and various flavors of databases.
-- I am a constant work-in-progress. I aim to always be learning. I hold my opinions loosely and I'm open to changing my mind as I acquire new information.
+**A little about me**
+- 👨‍💻 I started coding in 2013 and getting paid for it in 2015. It's hard to believe how long it's been already. Time flies when you're having fun!
+- 🧰 I am a technical generalist. I enjoy building full-stack web apps and APIs end-to-end. I've used a number of languages, frameworks, and flavors of databases.
+- 🏗️ I am a constant work-in-progress. I aim always to be learning and I hold my opinions loosely. I believe growth is changing my mind as I acquire new information.
+- 🛩️ 🌄 🎮 Beyond my life behind the keyboard I am a private pilot, enjoy traveling and the outdoors, and playing video games with friends.
 
-Have a question, an interesting thought, or maybe just a shareworthy meme? 
+Have a question, an interesting thought, or maybe just a share-worthy meme? 
 
-Drop me a line at [hello@traviscaro.dev](mailto:hello@traviscaro.dev).
+Drop me a line at [travisbcaro@gmail.com](mailto:travisbcaro@gmail.com).
 
-<a href="https://www.github.com/traviscaro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/traviscaro?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<!-- <a href="https://www.github.com/traviscaro" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/traviscaro?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a> -->
 
 <!-- <a href="https://www.x.com/travisbcaro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/travisbcaro?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
