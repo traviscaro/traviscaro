@@ -1,10 +1,10 @@
 # Hey there friend, I'm Travis! 👋 
 
 **A little about me:**
-- 👨‍💻 I started coding in 2013 and getting paid for it in 2015. It's hard to believe how long it's been already. Time flies when you're having fun!
-- 🧰 I am a technical generalist. I enjoy building full-stack web apps and APIs end-to-end. I've used a number of languages, frameworks, and flavors of databases.
+- 👨‍💻 I started coding in 2013 and developing professionally in 2015. Time flies when you're having fun!
+- 🧰 I lean into being a jack-of-all-trades, master-of-none. Most of my career has been spent building full-stack web apps and APIs end-to-end. I've been fortunate to use quite a few languages, frameworks, and database flavors. There is always another tool to learn.
 - 🏗️ I am a constant work-in-progress. I aim always to be learning and I hold my opinions loosely. I believe growth is changing my mind as I acquire new information.
-- 🛩️ 🌄 🎮 Beyond my life behind the keyboard I am a private pilot, enjoy traveling and the outdoors, and playing video games with friends.
+- 🛩️ 🌄 🎮 Beyond my life behind the keyboard I am a pilot, enjoy traveling and the outdoors, and playing video games with friends.
 
 Have a question, an interesting thought, or maybe just a share-worthy meme? 
 
